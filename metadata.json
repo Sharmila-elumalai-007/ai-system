@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Content Assistant",
+  "description": "An AI-powered tool to help writers improve their content by providing suggestions for titles, grammar, and SEO. This applet uses the Google Gemini API to generate content suggestions."
+}
