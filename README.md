@@ -82,10 +82,6 @@ The application focuses on clean UI/UX, modular architecture, and real-world CMS
 
 ![Admin Dashboard](Screenshots/Dashboard.PNG)
 
-### Author Dashboard
-
-![Author Dashboard](Screenshots/Authordashboard.PNG)
-
 ### Content Management
 
 ![All Content](Screenshots/Allcontent.PNG)
@@ -98,16 +94,20 @@ The application focuses on clean UI/UX, modular architecture, and real-world CMS
 
 ![Audit Logs](Screenshots/Auditlog.PNG)
 
+### User Management 
+
+![User Management](Screenshots/Usermanagement.PNG)
+
+### Author Dashboard
+
+![Author Dashboard](Screenshots/Authordashboard.PNG)
+
 ### Author create Article with AI Assistant
 ![Create Content](Screenshots/AuthorCreateContent.PNG)
 
 ### Author Content Management
 
-![All Content](Screenshots/AuthorAllContent.PNG)
-
-### User Management 
-
-![User Management](Screenshots/Usermanagement.PNG)
+![Author All Content](Screenshots/AuthorAllcontent.PNG)
 
 ### Common in Both screens
 ![Profile](Screenshots/profile.PNG)
