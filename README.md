@@ -1,2 +1,2 @@
-# ai-content-management-system
+# ai-system
 AI-assisted role-based CMS built with Angular
